@@ -2,10 +2,7 @@
 
 ## 📌 Project Overview
 
-This repository contains the complete hardware design of a **Custom ATmega2560-based development board**, created as part of a PCB design learning activity.  
-The project focuses on applying **Microcontroller hardware integration, schematic design, and 2-layer PCB layout principles** using Altium Designer.
-
-The board is designed to expose essential ATmega2560 I/O pins through headers while integrating power regulation and programming support.
+This repository contains the complete hardware design of a **Custom ATmega2560-based development board**, created as part of a PCB design learning activity. The project focuses on applying **Microcontroller hardware integration, schematic design, and 2-layer PCB layout principles** using Altium Designer. The board is designed to expose essential ATmega2560 I/O pins through headers while integrating power regulation and programming support.
 
 ## 🎯 Project Objectives
 - Design a complete ATmega2560 microcontroller hardware platform  
