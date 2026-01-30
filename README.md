@@ -67,22 +67,20 @@ Refer to `stackup/ATMEGA2560_Layer_Stackup.png` for details.
 ## 📷 Project Preview
 
 ### 2D PCB Layout
-![2D PCB](pcb_layout/ATMEGA2560_2D_PCB_Full.png)
+![2D PCB](ATMEGA2560_2D_PCB_Full.png)
 
 ### 3D PCB – Top View
-![3D Top](pcb_layout/ATMEGA2560_3D_PCB_Top.png)
+![3D Top](ATMEGA2560_3D_PCB_Top.png)
 
 ### 3D PCB – Bottom View
-![3D Bottom](pcb_layout/ATMEGA2560_3D_PCB_Bottom.png)
+![3D Bottom](ATMEGA2560_3D_PCB_Bottom.png)
 
 ### Layer Stackup
-![Stackup](stackup/ATMEGA2560_Layer_Stackup.png)
+![Stackup](ATMEGA2560_Layer_Stackup.png)
 
 ### Schematic
 ![Schematic](ATMEGA2560_Schematic_Main.png)
 ![Schematic](ATMEGA2560_Schematics_Power.png)
-![Schematic](0fae016e9db771c2d42c47fcf23b6fc6a3e1408c)
-
 
 ## 📄 License
 This project is intended for **Educational and learning purposes**.
